@@ -4,6 +4,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock Text="Hello world" />
-        <Button Width="100" Height="60" Content="Hello"/>
+        <Button Width="100" Height="60" HorizontalAlignment="Center"  Content="Hello"/>
     </Grid>
 </Window>
